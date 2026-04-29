@@ -1,0 +1,91 @@
+{
+  "globalStyle": [
+    {
+      "Name": "Default",
+      "Fontname": "Arial",
+      "Fontsize": 20,
+      "PrimaryColour": "\u0026H00FFFFFF",
+      "SecondaryColour": "\u0026H000000FF",
+      "OutlineColour": "\u0026H00000000",
+      "BackColour": "\u0026H00000000",
+      "Bold": 0,
+      "Italic": 0,
+      "Underline": 0,
+      "StrikeOut": 0,
+      "ScaleX": 100,
+      "ScaleY": 100,
+      "Spacing": 0,
+      "Angle": 0,
+      "BorderStyle": 1,
+      "Outline": 2,
+      "Shadow": 0,
+      "Alignment": 5,
+      "MarginL": 10,
+      "MarginR": 10,
+      "MarginV": 540,
+      "Encoding": 0
+    }
+  ],
+  "events": [
+    {
+      "Layer": 0,
+      "Start": "0:00:10.00",
+      "End": "0:00:13.00",
+      "Style": "Default",
+      "Name": "",
+      "MarginL": 0,
+      "MarginR": 0,
+      "MarginV": 0,
+      "Effect": "",
+      "Text": "Welcome to the tutorial"
+    },
+    {
+      "Layer": 0,
+      "Start": "0:00:15.00",
+      "End": "0:00:18.00",
+      "Style": "Default",
+      "Name": "",
+      "MarginL": 0,
+      "MarginR": 0,
+      "MarginV": 0,
+      "Effect": "",
+      "Text": "{\\c&H0000FFFF}This is an important message"
+    },
+    {
+      "Layer": 0,
+      "Start": "0:00:20.00",
+      "End": "0:00:23.00",
+      "Style": "Default",
+      "Name": "",
+      "MarginL": 0,
+      "MarginR": 0,
+      "MarginV": 0,
+      "Effect": "",
+      "Text": "{\\c&H000000FF\\b1}Danger{\\r} ahead proceed with caution"
+    },
+    {
+      "Layer": 0,
+      "Start": "0:00:25.00",
+      "End": "0:00:28.00",
+      "Style": "Default",
+      "Name": "",
+      "MarginL": 0,
+      "MarginR": 0,
+      "MarginV": 0,
+      "Effect": "",
+      "Text": "The zone is restricted"
+    },
+    {
+      "Layer": 0,
+      "Start": "0:00:30.00",
+      "End": "0:00:33.00",
+      "Style": "Default",
+      "Name": "",
+      "MarginL": 0,
+      "MarginR": 0,
+      "MarginV": 0,
+      "Effect": "",
+      "Text": "Thank you for watching"
+    }
+  ]
+}
